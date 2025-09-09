@@ -1,2 +1,4 @@
 # primerexamen-edgarapazamamani
-Primer Examen - Edgar Apaza Mamani
+EDGAR APAZA MAMANI
+TECNICO DEN SISTEMAS
+EL SISGUIENTE PROYECTO SE ELABORARA UNA PAGINA PARA MANACO 
